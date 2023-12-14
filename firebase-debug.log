@@ -1,0 +1,13 @@
+[debug] [2023-12-13T04:00:33.274Z] ----------------------------------------------------------------------
+[debug] [2023-12-13T04:00:33.301Z] Command:       /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/firebase login
+[debug] [2023-12-13T04:00:33.303Z] CLI Version:   13.0.1
+[debug] [2023-12-13T04:00:33.305Z] Platform:      android
+[debug] [2023-12-13T04:00:33.309Z] Node Version:  v20.2.0
+[debug] [2023-12-13T04:00:33.310Z] Time:          Wed Dec 13 2023 11:00:33 GMT+0700 (Western Indonesia Time)
+[debug] [2023-12-13T04:00:33.310Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-13T04:00:33.326Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2023-12-13T04:00:34.570Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2023-12-13T04:00:34.575Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
